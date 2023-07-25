@@ -1,2 +1,2 @@
-# photo_editor
+# photo-editor
 first python project
