@@ -1,0 +1,2 @@
+# Slot Machine
+this was a project made along with the video https://www.youtube.com/watch?v=th4OBktqK1I, I found this very informative and a great start to learning python from someone who already had a base knowledge of programming
