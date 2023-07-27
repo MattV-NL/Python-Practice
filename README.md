@@ -5,3 +5,6 @@ Simple photo editor, this applies a filter to all the photos in the targeted fol
 
 ## Project 2
 Simple Video downloader using args from console
+
+## Project 3
+Slot machine with CLI input
